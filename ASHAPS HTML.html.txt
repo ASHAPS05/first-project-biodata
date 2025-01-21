@@ -1,0 +1,7 @@
+<!DOCTTYPE HTML>
+<Head>
+<Title>Biodata</Title>
+</Head>
+<Body><h1>< Ayush </h1>
+<p> I am from Dhanbad </p>
+< Img src ="/Dhanbad.jpg"hight = "150px " width= 150x>
